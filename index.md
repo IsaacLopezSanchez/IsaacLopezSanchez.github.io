@@ -4,7 +4,7 @@ This is my home page! My name is Your Name and I am a student at [Cal State Full
 
 ## Computer Science Projects
 
-My GitHub page is http://github.com/IsaacLopezSanchez
+My GitHub page is http://IsaacLopezSanchez.github.io/
 
 ### CPSC 120
 
