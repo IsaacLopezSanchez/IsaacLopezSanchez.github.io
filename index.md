@@ -18,8 +18,9 @@ My GitHub page is http://IsaacLopezSanchez.github.io/
     Lab 6, part 2 was one of my favorites because I was curious about
     how the game Blackjack works as I played it once but never really
     understand it. I also really liked this lab because I had a great
-    lab partner that really helped me get a better understanding of coding.
-    I was also able to refer back to this one when I needed help with my other codes.
+    lab partner that really helped me get a better understanding of coding. I
+    was also able to refer back to this one when I needed help with my other
+    which made this lab even more special to me.
 
 * Lab 12
       Lab 12, was one of my favorite lab although it is new it really
