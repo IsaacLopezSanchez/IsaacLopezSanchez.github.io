@@ -20,7 +20,7 @@ My GitHub page is http://IsaacLopezSanchez.github.io/
     understand it. I also really liked this lab because I had a great
     lab partner that really helped me get a better understanding of coding.
 
-  * Lab 12
+* Lab 12
       Lab 12, was one of my favorite lab although it is new it really
       shows me how far I have come with coding. Although I feel as I
       may need more practice(a lot more). I can really say that I enjoy
